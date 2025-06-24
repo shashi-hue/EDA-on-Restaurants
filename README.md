@@ -156,6 +156,7 @@ Based on customer preferences, popular dishes include a mix of:
 
 ## 🔗 Dataset Source
 Data sourced from Kaggle: "Zomato Bangalore Restaurants" by Himanshu Poddar
+[Dataset link](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants)
 
 ---
 **Happy Analyzing! 🎉**
