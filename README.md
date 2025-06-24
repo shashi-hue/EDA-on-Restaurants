@@ -23,6 +23,8 @@ The dataset contains **51,717 restaurants** across Bangalore with 17 features in
 4. Fast Food
 5. Biryani
 
+!(images/cuisine_popularity.png)
+
 ### 💰 Pricing Patterns & Economic Insights
 - **Sweet spot pricing**: Most restaurants (majority) charge between ₹300-600 for two people
 - **Higher cost = Higher ratings**: There's a clear positive correlation between restaurant prices and customer ratings
