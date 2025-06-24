@@ -27,8 +27,16 @@ The dataset contains **51,717 restaurants** across Bangalore with 17 features in
 
 ### 💰 Pricing Patterns & Economic Insights
 - **Sweet spot pricing**: Most restaurants (majority) charge between ₹300-600 for two people
+
+approx_cost(for two people)	  count
+300.0                          	7576
+400.0	                          6562
+500.0                         	4980
+200.0                          	4857
+600.0                         	3714
 - **Higher cost = Higher ratings**: There's a clear positive correlation between restaurant prices and customer ratings
 - **Premium dining**: Expensive restaurants are less likely to offer online ordering, focusing on in-person experiences
+![costVsRating](images/cost_vs_rating)
 
 ### 📱 Digital Transformation in Food Service
 - **60% of restaurants** offer online ordering - showing Bangalore's digital adoption
