@@ -23,38 +23,47 @@ The dataset contains **51,717 restaurants** across Bangalore with 17 features in
 4. Fast Food
 5. Biryani
 
+
 ![cuisines](images/cuisine_popularity.png)
 
 ### 💰 Pricing Patterns & Economic Insights
 - **Sweet spot pricing**: Most restaurants (majority) charge between ₹300-600 for two people
 - **Higher cost = Higher ratings**: There's a clear positive correlation between restaurant prices and customer ratings
 - **Premium dining**: Expensive restaurants are less likely to offer online ordering, focusing on in-person experiences
+
 ![costVsRating](images/cost_vs_rating.png)
 
 ### 📱 Digital Transformation in Food Service
 - **60% of restaurants** offer online ordering - showing Bangalore's digital adoption
+
 ![onlie order](images/online_order.png)
 - **Only 12% offer table booking** - a significant opportunity for service enhancement
+
 ![table booking](images/table_booking.png)
 - **64% more customer engagement** for restaurants with online ordering (higher vote counts)
+
 ![customer engagment](images/customer_engagment.png)
 
 ### ⭐ Rating Dynamics & Customer Behavior
 - **Average rating**: 3.6/5 across all restaurants
+
 ![rating](images/rating.png)
 - **Popular = Highly Rated**: Strong correlation between vote counts and ratings
+
 ![votes vs rating](images/votes_vs_rating.png)
 - **Potential rating inflation**: Restaurants with <10 votes but >4.0 ratings might have inflated scores
 - **Dish information advantage**: Restaurants with "dish_liked" data average 3.9 rating vs 3.4 without
 
 ### 🏙️ Geographic Distribution & Hotspots
 **BTM (Byrasandra, Tavarekere, Madiwala)** leads as the restaurant hub of Bangalore.
+
 ![loction distribution](images/location_distribution.png)
 
 **Nightlife Capitals:**
 - **Indiranagar** - Highest concentration of pubs and bars
 - **Koramangala** - Second-highest nightlife destination  
 - **MG Road** - Traditional entertainment district
+
 ![nightlife](images/nightlife_locations.png)
 
 ### 🍕 Restaurant Types & Consumer Preferences
@@ -65,10 +74,12 @@ The dataset contains **51,717 restaurants** across Bangalore with 17 features in
 **Service Type Distribution:**
 - Delivery: 25,000+ restaurants
 - Pubs and Bars: 697 establishments
+
 ![service type](images/service_type.png)
 
 ### 🏢 Brand Dominance & Market Leaders
 **Cafe Coffee Day** rules the roost with **96 outlets** across Bangalore, showcasing the power of consistent branding and strategic location placement.
+
 ![res chains](images/res_chains.png)
 
 ### 🍛 Most Loved Dishes
@@ -83,6 +94,7 @@ Based on customer preferences, popular dishes include a mix of:
 
 ### 🤝 Cuisine Pairing Trends
 **Chinese + North Indian** is the most common cuisine combination, reflecting Bangalore's love for fusion dining and diverse taste preferences.
+
 ![cuisine pairs](images/cuisine_pairs.png)
 
 ## 📈 Business Intelligence Takeaways
