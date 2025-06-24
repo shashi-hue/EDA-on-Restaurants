@@ -59,6 +59,7 @@ The dataset contains **51,717 restaurants** across Bangalore with 17 features in
 
 ### 🍕 Restaurant Types & Consumer Preferences
 **"Quick Bites"** emerges as the most popular restaurant type, reflecting Bangalore's fast-paced lifestyle and preference for convenient dining options.
+
 ![res types](images/res_types.png)
 
 **Service Type Distribution:**
@@ -76,6 +77,8 @@ Based on customer preferences, popular dishes include a mix of:
 - Indo-Chinese fusion items
 - Quick bite options
 - Regional specialties
+
+
 ![most liked dishes](images/most_liked_dishes.png)
 
 ### 🤝 Cuisine Pairing Trends
